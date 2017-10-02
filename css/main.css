@@ -2,3 +2,24 @@ html {
   background-color: #f2f1ed;
   font-family: "Georgia", serif;
 }
+h2 {
+  color: #5d8432;
+}
+image {
+  width: 100%;
+}
+figcaption {
+  font-size: 0.8;
+  font-style: italic;
+  text-align: center;
+}
+nav {
+  font-weight: bold;
+  font-size: 1.125rem;
+}
+a {
+  color: #793284;
+}
+a:hover {
+  color: #b42885;
+}
