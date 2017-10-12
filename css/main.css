@@ -26,8 +26,13 @@ nav {
 
 a {
   color: #793284;
+  text-decoration: none;
 }
 
 a:hover {
   color: #b42885;
+}
+
+ol {
+  list-style-type: none;
 }
